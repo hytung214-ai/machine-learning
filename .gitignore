@@ -1,0 +1,9 @@
+**/data/
+**/txt_sentoken/
+**/checkpoints/
+**/*.pt
+**/*.pth
+**/__pycache__/
+**/.ipynb_checkpoints/
+.venv/
+.env
